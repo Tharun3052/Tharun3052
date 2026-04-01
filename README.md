@@ -14,7 +14,7 @@
 
 - 🎓 Pursuing **M.S. in Data Science** at University of North Texas
 - 🏫 B.Tech in CSE (Networking & Security) from VIT-AP University — CGPA: 8.7
-- 🔍 Passionate about Machine Learning, Big Data, and Cybersecurity
+- 🔍 Passionate about Data Science, Data Analysis,Machine Learning, Big Data, and Cybersecurity
 - 🛠️ Building real-world projects using Python, SQL, BigQuery & Scikit-Learn
 - 🌍 Duolingo English Test — **135/160**
 
