@@ -12,18 +12,11 @@
 
 ## 🙋‍♂️ About Me
 
-```python
-tharun = {
-    "name"         : "Tharun Reddy Marreddy",
-    "degree_ms"    : "M.S. Data Science — University of North Texas (2024–Present)",
-    "degree_btech" : "B.Tech CSE (Networking & Security) — VIT-AP University | CGPA: 8.7",
-    "interests"    : ["Machine Learning", " Data Analytics", "Cybersecurity", "Knowledge Management","Data Science"],
-    "tools"        : ["Python", "SQL", "Pandas", "Scikit-Learn", "BigQuery", "Jupyter"],
-    "currently"    : "Building end-to-end ML & data systems 🚀",
-    "english_test" : "Duolingo English Test — 135/160 ✅",
-    "fun_fact"     : "I debug models the same way I debug life — one layer at a time 🔍"
-}
-```
+- 🎓 Pursuing **M.S. in Data Science** at University of North Texas
+- 🏫 B.Tech in CSE (Networking & Security) from VIT-AP University — CGPA: 8.7
+- 🔍 Passionate about Machine Learning, Big Data, and Cybersecurity
+- 🛠️ Building real-world projects using Python, SQL, BigQuery & Scikit-Learn
+- 🌍 Duolingo English Test — **135/160**
 
 ---
 
